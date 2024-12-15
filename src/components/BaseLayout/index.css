@@ -1,0 +1,29 @@
+.content {
+  background-color: #F9F6F6;
+}
+
+.first-header {
+  background: url('https://cdn.handmadelovebytanya.com/hmlmain/products/671cf487ecb5ea8c61a8d12b/P-16393-k__7j.jpeg');
+}
+
+.second-header {
+  background: url('https://cdn.handmadelovebytanya.com/hmlmain/products/6741c7239840db9d86289823/P-16399-JMLz1.jpg');
+}
+
+.third-header {
+  background: url('https://m.media-amazon.com/images/I/61BmgTmGWtL._SX679_.jpg');
+}
+
+.fourth-header {
+  background: url('https://m.media-amazon.com/images/I/81VmKHx076L._SY741_.jpg');
+}
+
+.first-header, .second-header, .third-header, .fourth-header {
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-position: center;
+    height: 300px;
+ 
+}
+

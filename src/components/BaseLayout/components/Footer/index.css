@@ -1,0 +1,12 @@
+.footer {
+  height: 3em;
+  background-color:white;
+  color: hsl(0, 38%, 6%);
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: lighter;
+  border-color: black;
+}
